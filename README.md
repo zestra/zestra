@@ -1,3 +1,5 @@
+# Introduction
+
 - 👋 Hi, I’m Zestra.
 - 👀 I’m interested in Math, Python, and Science.
 - 🌱 I’m currently learning how to use Pygame.
