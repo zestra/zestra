@@ -14,6 +14,6 @@ These are some projects I am currently working on:
 ![](https://github.com/zestra/Interactive-Science-Simulations/blob/main/Gravity%202:%20the%20Cannon/images/6CCB31C9-B72F-41F5-A55E-9C2A1BB3550F.png)
 
 ## Zestras-Platformer-Game
-![](https://github.com/zestra/Zestras-Platformer-Game/blob/main/Platformer/screen.JPG)
+![](https://github.com/zestra/Zestras-Platformer-Game/blob/main/Platformer/946B969B-2889-485C-9A0F-87C57D976E5D.png)
 
 
