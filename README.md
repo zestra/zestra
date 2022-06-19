@@ -6,7 +6,8 @@
 
 These are some projects I am currently working on:
  - [Interactive-Science-Simulations](https://github.com/zestra/Interactive-Science-Simulations),
- - and [Zestras-Platformer-Game](https://github.com/zestra/Zestras-Platformer-Game)
+ - [Zestras-Platformer-Game](https://github.com/zestra/Zestras-Platformer-Game),
+ - and [Zestras-Game-of-Life](https://github.com/zestra/Zestras-Game-of-Life).
 
 # Examples
 
