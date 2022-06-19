@@ -5,7 +5,7 @@
  - I’m currently interested in coding science simulations and games.
 
 These are some projects I am currently working on:
- - [Interactive-Science-Simulations](https://github.com/zestra/Interactive-Science-Simulations),
+ - [Zestras-Gravity-Simulation](https://github.com/zestra/Zestras-Gravity-Simulation),
  - [Zestras-Platformer-Game](https://github.com/zestra/Zestras-Platformer-Game),
  - and [Zestras-Game-of-Life](https://github.com/zestra/Zestras-Game-of-Life).
 
