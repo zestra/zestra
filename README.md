@@ -7,7 +7,8 @@
 These are some projects I am currently working on:
  - [Zestras-Gravity-Simulation](https://github.com/zestra/Zestras-Gravity-Simulation),
  - [Zestras-Platformer-Game](https://github.com/zestra/Zestras-Platformer-Game),
- - and [Zestras-Game-of-Life](https://github.com/zestra/Zestras-Game-of-Life).
+ - [Zestras-Game-of-Life](https://github.com/zestra/Zestras-Game-of-Life)
+ - and [Zestras-TicTacToe](https://github.com/zestra/Zestras-TicTacToe).
 
 # Examples
 
@@ -19,4 +20,7 @@ These are some projects I am currently working on:
 
 ## Zestras-Game-of-Life
 ![](https://github.com/zestra/Zestras-Game-of-Life/blob/main/game/gen2.PNG)
+
+# Zestras-TicTacToe
+![screenshot](https://user-images.githubusercontent.com/104675837/175808714-9cb4d46c-5562-40b6-93c1-148e413ff503.JPG)
 
