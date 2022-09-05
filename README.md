@@ -11,3 +11,6 @@ These are some top projects I am working on:
  - [Zestras-TicTacToe](https://github.com/zestra/Zestras-TicTacToe),
  - [Zestras-Space-Invaders](https://github.com/zestra/Zestras-Space-Invaders)
  - and [Zestras-Adventure-Game](https://github.com/zestra/Zestras-Adventure-Game).
+
+# Stats
+[![Zestra's GitHub stats](https://github-readme-stats.vercel.app/api?username=zestra)](https://github.com/anuraghazra/github-readme-stats)
