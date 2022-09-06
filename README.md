@@ -13,4 +13,4 @@ These are some top projects I am working on:
  - and [Zestras-Adventure-Game](https://github.com/zestra/Zestras-Adventure-Game).
 
 # Stats
-[![Zestra's GitHub stats](https://github-readme-stats.vercel.app/api?username=zestra)](https://github.com/anuraghazra/github-readme-stats)
+![Zestra's GitHub stats](https://github-readme-stats.vercel.app/api?username=zestra)
