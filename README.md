@@ -1,7 +1,7 @@
 # Hello World!
  - Hi, I’m Zestra and I am 13 years old.
  - I’m interested in Math, Python, and Science.
- - I am experimenting with the concept of 3D!!!
+ - I am currently experimenting with the concept of 3D!!!
  
 # Programs you can check out!
 
