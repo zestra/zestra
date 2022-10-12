@@ -1,11 +1,11 @@
 # Hello World!
  - Hi, I’m Zestra and I am 13 years old.
  - I’m interested in Math, Python, and Science.
- - I am currently working on my game [MacroFarm](https://github.com/zestra/MacroFarm).
+ - I am experimenting with the concept of 3D!!!
  
 # Programs you can check out!
 
-I have recently been working on [MacroFarm](https://github.com/zestra/MacroFarm), a game based on farming and survival
+I have recently been working on [FlyingCastles](https://github.com/zestra/FlyingCastles), my first game featuring 3D.
 
 These are some older top projects I have made:
  - [Zestras-Gravity-Simulation](https://github.com/zestra/Zestras-Gravity-Simulation),
@@ -13,6 +13,7 @@ These are some older top projects I have made:
  - [Zestras-Game-of-Life](https://github.com/zestra/Zestras-Game-of-Life),
  - [Zestras-TicTacToe](https://github.com/zestra/Zestras-TicTacToe),
  - [Zestras-Space-Invaders](https://github.com/zestra/Zestras-Space-Invaders)
+ - and [MacroFarm](https://github.com/zestra/MacroFarm)
 
 # Stats
 ![Zestra's GitHub stats](https://github-readme-stats.vercel.app/api?username=zestra)
