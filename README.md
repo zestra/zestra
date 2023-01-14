@@ -5,7 +5,7 @@
  
 # Programs you can check out!
 
-I have recently been working on [FlyingCastles](https://github.com/zestra/FlyingCastles), my first game featuring 3D.
+I have been recently working on my second Gravity Simulation, which you can check out with this [link](https://github.com/zestra/Gravity-Simulation-2).
 
 These are some older top projects I have made:
  - [Zestras-Gravity-Simulation](https://github.com/zestra/Zestras-Gravity-Simulation),
