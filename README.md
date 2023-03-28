@@ -10,8 +10,8 @@
 Here is a list of my three top programs of 2023, ranging from a Science Simulator, an Original RPG, to yet another Society Simulator!
 
 - [Gravity Simulation II 🪐](https://github.com/zestra/Gravity-Simulation-2)
-- [MacroFarm ](https://github.com/zestra/MacroFarm)
-- [Zestras-Game-of-Life](https://github.com/zestra/Zestras-Game-of-Life)
+- [MacroFarm](https://github.com/zestra/MacroFarm)
+- [Game of Life](https://github.com/zestra/Zestras-Game-of-Life)
 
 Some other cool programs which you can check out are 
 
