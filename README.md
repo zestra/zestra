@@ -2,12 +2,12 @@
  - Hello, I’m Zestra and I am 13 years old.
  - I’m interested in Math, Science, and Programming. I am also a bookworm. 📚🪱
  - I can speak English, German, and am currently learning French and Arabic.
- - I am a student in Al Bateen Academy, Abu Dhabi, UAE 🏫
- - Don't forget to check out my most succesful game, [MacroFarm](https://github.com/zestra/MacroFarm)!!!
+ - I am a student in Al Bateen Academy, Abu Dhabi, UAE. 🏫
+ - Don't forget to check out my most successful game, [MacroFarm](https://github.com/zestra/MacroFarm)!!!
  
 # Programs you can check out!
 
-Here is a list of my three top programs of 2023, ranging from a Science Simulator, an Original RPG, to yet another Society Simulator!
+Here is a list of my three top programs of 2023, ranging from a Science Simulator, an Original RPG Game, to yet another Society Simulator!
 
 - [Gravity Simulation II 🪐](https://github.com/zestra/Gravity-Simulation-2)
 - [MacroFarm](https://github.com/zestra/MacroFarm)
