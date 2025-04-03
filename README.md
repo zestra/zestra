@@ -1,5 +1,5 @@
 # Hello World!
- - Hello, I’m Zestra and I am 13 years old.
+ - Hello, I’m Zestra 
  - I’m interested in Math, Science, and Programming. I am also a bookworm. 📚🪱
  - I can speak English, German, and am currently learning French and Arabic.
  - I am a student in Al Bateen Academy, Abu Dhabi, UAE. 🏫
